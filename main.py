@@ -1,8 +1,11 @@
+def test1():
+    print(1)
 
-print('hello git')
-print('new line1')
-print('new line2')
-print('new line3')
-print('new line4')
-print('new line5')
-print('bug!')
+def test2():
+    print(2)
+
+def test3():
+    print(3)
+
+def test4():
+    print(4)
